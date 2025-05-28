@@ -1,6 +1,6 @@
 # 🚗 Car Selling API
 
-API RESTful simples para cadastro e listagem de automóveis, desenvolvida em Java com Spring Boot.
+API REST para cadastro e listagem de automóveis, desenvolvida em Java com Spring Boot.
 
 ## ✨ Funcionalidades
 
